@@ -4,6 +4,8 @@
 * [Deep Learning](https://github.com/matlab-deep-learning)
 * [Graphics and App Building](https://github.com/MATLAB-Graphics-and-App-Building)
 * [Teaching Resources](https://github.com/MathWorks-Teaching-Resources)
+* [SimBiology](https://github.com/mathworks-simbiology)
+* [Robotics](https://github.com/mathworks-robotics)
 
 #### Trending Topics: [Deep Learning](https://github.com/topics/matlab-deep-learning) | [MATLAB + Python](https://github.com/topics/matlab-python) | [MATLAB + AWS](https://github.com/topics/matlab-aws) | [Toolboxes](https://github.com/topics/matlab-toolbox?o=desc&s=updated) | [Continuous Integration](https://github.com/topics/matlab-ci)
 
