@@ -6,6 +6,7 @@
 * [Teaching Resources](https://github.com/MathWorks-Teaching-Resources)
 * [SimBiology](https://github.com/mathworks-simbiology)
 * [Robotics](https://github.com/mathworks-robotics)
+* [MATLAB Development & AI Coding Projects](https://github.com/matlab)
 
 #### Trending Topics: [Deep Learning](https://github.com/topics/matlab-deep-learning) | [MATLAB + Python](https://github.com/topics/matlab-python) | [MATLAB + AWS](https://github.com/topics/matlab-aws) | [Toolboxes](https://github.com/topics/matlab-toolbox?o=desc&s=updated) | [Continuous Integration](https://github.com/topics/matlab-ci)
 
